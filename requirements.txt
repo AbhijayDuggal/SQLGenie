@@ -1,0 +1,18 @@
+# This file contains the exact dependencies for the project
+
+# Streamlit UI
+streamlit
+
+# Google Gemini
+google-generativeai
+python-dotenv
+
+# PyTorch (CPU-only, downgraded for WinError 1114 fix)
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+torchaudio==2.2.2+cpu
+
+# Embeddings and Vector Search
+sentence-transformers
+faiss-cpu
+
