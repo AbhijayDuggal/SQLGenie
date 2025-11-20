@@ -2,7 +2,7 @@
  Generative AI Based SQL Generator
 SQL Genie — AI-Powered Natural Language to SQL Generator
 
-SQL Genie is a Streamlit-based application that uses Generative AI to convert natural language questions into SQL queries. It supports both SQLite and MySQL, retrieves schema context intelligently using embeddings + FAISS, validates SQL safety, executes queries (for SQLite), and provides interactive chat-style history.
+SQL Genie uses Generative AI to convert natural language questions into SQL queries. It supports both SQLite and MySQL, retrieves schema context intelligently using embeddings + FAISS, validates SQL safety, executes queries (for SQLite), and provides interactive chat-style history.
 
 Features
 1. Natural Language → SQL
