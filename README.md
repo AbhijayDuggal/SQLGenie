@@ -41,3 +41,12 @@ Environment	Python 3.10+
 
 
 No destructive operations allowed
+
+Images:
+<img width="975" height="441" alt="image" src="https://github.com/user-attachments/assets/32058e1b-f271-4150-a9ed-7613234f799a" />
+<img width="975" height="437" alt="image" src="https://github.com/user-attachments/assets/b9c2d6a6-dbe3-458b-82f4-463c446ea7b1" />
+<img width="975" height="403" alt="image" src="https://github.com/user-attachments/assets/7dab73f3-5c76-4cfc-947e-b55cae3fec7b" />
+<img width="975" height="378" alt="image" src="https://github.com/user-attachments/assets/4f746b78-1289-4f48-b3f7-fa5bf415b5bb" />
+<img width="975" height="383" alt="image" src="https://github.com/user-attachments/assets/1b26172e-2cfc-4eca-8fbb-931f21302a0b" />
+
+
