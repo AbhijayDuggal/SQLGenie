@@ -1,5 +1,3 @@
-# This file contains the exact dependencies for the project
-
 # Streamlit UI
 streamlit
 
@@ -16,3 +14,5 @@ torchaudio==2.2.2+cpu
 sentence-transformers
 faiss-cpu
 
+# MySQL support
+mysql-connector-python
